@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ToastToolkit",
-            url: "https://github.com/peteroriola/ToastToolkit-SPM/releases/download/1.0.0/ToastToolkit.xcframework.zip",
+            url: "https://github.com/Peteroriola/ToastToolkit-SPM/releases/download/1.0.0/ToastToolkit.xcframework.zip",
             checksum: "YOUR_CHECKSUM_HERE"
         )
     ]
